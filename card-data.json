@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "exportedAt": "2026-05-18T17:50:46.045Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Tom",
+      "lname": "Pocock",
+      "pronouns": null,
+      "name": null,
+      "title": "...",
+      "biz": "TP Improvements",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "Unit 16, Mole Business Park",
+      "city": " Leatherhead",
+      "state": "",
+      "postal": "KT22 7BA",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/L62r6pc3/cover-(12).png",
+      "shareImg": "https://i.postimg.cc/L62r6pc3/cover-(12).png",
+      "bookMarkImg": "https://i.postimg.cc/L62r6pc3/cover-(12).png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#3084bf",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#2c2c2c",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#4088c6",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#E5E7EB",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "Office",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "01372 203040",
+        "label": "Your Office Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "tom@tpimprovements.co.uk",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://tpimprovements.com/",
+        "label": "Your Website URL"
+      },
+      {
+        "name": "location",
+        "placeholder": "https://goo.gl/maps/location",
+        "value": "https://www.google.com/maps/place/TP+Improvements/data=!4m2!3m1!1s0x0:0x96afc6fcc5a4ec8c?sa=X&ved=1t:2428&ictx=111",
+        "label": "Your Maps Location URL"
+      }
+    ],
+    "secondaryActions": [],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Leave us a review!",
+            "link": "https://tpreviews.exposureboost.co.uk/",
+            "contentType": "customButton"
+          }
+        ]
+      }
+    ]
+  }
+}
